@@ -33,21 +33,19 @@ const expertise = {
   <img src="https://skillicons.dev/icons?i=pytorch,postgres,mongodb,redis,elasticsearch&theme=dark&perline=5" />
 </div>
 
-## 🌟 Featured Projects
+## 🏆 Achievements & Metrics
 
 <div align="center">
-  <a href="https://github.com/Mohammad-Arif-Hossen/ai-saas-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-Arif-Hossen&repo=ai-saas-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD2&icon_color=00FFD2&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/Mohammad-Arif-Hossen/next-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-Arif-Hossen&repo=next-commerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD2&icon_color=00FFD2&text_color=FFFFFF" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Arif-Hossen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-## 🏆 Achievements
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Arif-Hossen&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFD2&line=00FFD2&point=00FFD2&area=true" />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Arif-Hossen&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arif-Hossen&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammad-Arif-Hossen&theme=tokyonight&utcOffset=6" />
 </div>
 
 ## 🌐 Connect With Me
