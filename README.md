@@ -31,23 +31,34 @@ const expertise = {
 ## 🎨 Tech Stack
 
 <div align="center">
-  <h3>Frontend & UI</h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,svelte&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,sass&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,webpack,vite&theme=dark&perline=5" />
-
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,java&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,spring,express,nestjs&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch&theme=dark&perline=5" />
-
-  <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=nginx,jenkins,terraform,grafana,prometheus&theme=dark&perline=5" />
-
-  <h3>AI & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,r&theme=dark&perline=5" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vim&theme=dark&perline=5" />
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Frontend & UI</h3>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,svelte&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,sass&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,webpack,vite&theme=dark&perline=5" />
+      </td>
+      <td align="center">
+        <h3>Backend & Database</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,java&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=django,fastapi,spring,express,nestjs&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch&theme=dark&perline=5" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Cloud & DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=nginx,jenkins,terraform,grafana,prometheus&theme=dark&perline=5" />
+      </td>
+      <td align="center">
+        <h3>AI & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,r&theme=dark&perline=5" /><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vim&theme=dark&perline=5" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 Achievements & Metrics
