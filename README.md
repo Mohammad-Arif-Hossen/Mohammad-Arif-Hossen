@@ -2,7 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋+I'm+Mohammad+Arif+Hossen;Full+Stack+Solution+Architect;AI+%26+Cloud+Infrastructure+Expert;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-<img src="https://github.com/Mohammad-Arif-Hossen/Mohammad-Arif-Hossen/blob/output/github-snake.svg" alt="Snake Animation" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Arif-Hossen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FFD2&text_color=00FFD2&icon_color=00FFD2" alt="GitHub Stats" />
