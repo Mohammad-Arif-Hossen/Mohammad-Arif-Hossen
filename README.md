@@ -48,8 +48,7 @@ const expertise = {
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arif-Hossen&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammad-Arif-Hossen&theme=tokyonight&utcOffset=6" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Arif-Hossen&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />
 </div>
 
 ## 🌐 Connect With Me
